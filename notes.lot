@@ -1,0 +1,29 @@
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {1.1}{\ignorespaces State of a Qubit for different values of $\theta $ and $\phi $}}{18}{table.caption.7}%
+\contentsline {table}{\numberline {1.2}{\ignorespaces Truth Table for Pauli-I Gate}}{20}{table.caption.8}%
+\contentsline {table}{\numberline {1.3}{\ignorespaces Truth Table for Pauli-X Gate}}{22}{table.caption.10}%
+\contentsline {table}{\numberline {1.4}{\ignorespaces Truth Table for Pauli-Y Gate}}{23}{table.caption.12}%
+\contentsline {table}{\numberline {1.5}{\ignorespaces Truth Table for Pauli-Z Gate}}{25}{table.caption.14}%
+\contentsline {table}{\numberline {1.6}{\ignorespaces Truth Table for Hadamard Gate}}{28}{table.caption.16}%
+\contentsline {table}{\numberline {1.7}{\ignorespaces Truth Table for S Gate}}{31}{table.caption.18}%
+\contentsline {table}{\numberline {1.8}{\ignorespaces Truth Table for $S^{\dagger }$ Gate}}{33}{table.caption.20}%
+\contentsline {table}{\numberline {1.9}{\ignorespaces Truth Table for T Gate}}{34}{table.caption.22}%
+\contentsline {table}{\numberline {1.10}{\ignorespaces Truth Table for $T^{\dagger }$ Gate}}{35}{table.caption.24}%
+\contentsline {table}{\numberline {1.11}{\ignorespaces Truth Table for CNOT Gate}}{41}{table.caption.30}%
+\contentsline {table}{\numberline {1.12}{\ignorespaces Truth Table for CY Gate}}{43}{table.caption.32}%
+\contentsline {table}{\numberline {1.13}{\ignorespaces Truth Table for CZ Gate}}{45}{table.caption.34}%
+\contentsline {table}{\numberline {1.14}{\ignorespaces Truth Table for CH Gate}}{47}{table.caption.36}%
+\contentsline {table}{\numberline {1.15}{\ignorespaces Truth Table for SWAP Gate}}{50}{table.caption.38}%
+\contentsline {table}{\numberline {1.16}{\ignorespaces Truth Table for Toffoli Gate}}{52}{table.caption.42}%
+\contentsline {table}{\numberline {1.17}{\ignorespaces Truth Table for Fredkin Gate}}{55}{table.caption.44}%
+\contentsline {table}{\numberline {1.18}{\ignorespaces Reversible AND Gate}}{79}{table.caption.61}%
+\contentsline {table}{\numberline {1.19}{\ignorespaces Probability of Bomb Exploding after N iterations}}{86}{table.caption.67}%
+\contentsline {table}{\numberline {1.20}{\ignorespaces Possible Functions}}{86}{table.caption.68}%
+\contentsline {table}{\numberline {1.21}{\ignorespaces Possible Functions}}{90}{table.caption.70}%
+\contentsline {table}{\numberline {1.22}{\ignorespaces Example of Simon's Algorithm}}{98}{table.caption.73}%
+\contentsline {table}{\numberline {1.23}{\ignorespaces Function}}{100}{table.caption.75}%
+\contentsline {table}{\numberline {1.24}{\ignorespaces Example of Grover's Algorithm}}{104}{table.caption.76}%
+\contentsline {table}{\numberline {1.25}{\ignorespaces Example of Grover's Algorithm}}{106}{table.caption.78}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }

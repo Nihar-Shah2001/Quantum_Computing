@@ -1,0 +1,113 @@
+\contentsline {chapter}{List of Figures}{v}{chapter*.2}%
+\contentsline {chapter}{List of Tables}{vii}{chapter*.3}%
+\contentsline {chapter}{Notations}{viii}{chapter*.4}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Axioms of Quantum Mechanics}{1}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Postulate 1: The State Space Postulate}{1}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Posulate 2: Evolution Postulate}{3}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.3}Postulate 3: Measurement Postulate}{4}{subsection.1.1.3}%
+\contentsline {subsubsection}{Projective Measurements}{8}{theorem.1.1.1}%
+\contentsline {subsubsection}{Postive Operator Valued Measure (POVM) measurements}{10}{definition.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.4}Postulate 4: Composite Systems}{12}{subsection.1.1.4}%
+\contentsline {subsubsection}{Full and Partial Measurements of a multi-particle systems}{13}{example.1.1.9}%
+\contentsline {section}{\numberline {1.2}Bloch Sphere Representation of a Qubit}{15}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Single Qubit Gates}{20}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Pauli Matrices}{20}{subsection.1.3.1}%
+\contentsline {subsubsection}{Pauli-I Gate}{20}{subsection.1.3.1}%
+\contentsline {subsubsection}{Pauli-X Gate}{22}{figure.caption.9}%
+\contentsline {subsubsection}{Pauli-Y Gate}{23}{figure.caption.11}%
+\contentsline {subsubsection}{Pauli-Z Gate}{25}{figure.caption.13}%
+\contentsline {subsection}{\numberline {1.3.2}Hadamard Gate}{28}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}$S$ and $S^{\dagger }$ Gate}{31}{subsection.1.3.3}%
+\contentsline {subsubsection}{$S$ Gate}{31}{subsection.1.3.3}%
+\contentsline {subsubsection}{$S^{\dagger }$ Gate}{32}{figure.caption.19}%
+\contentsline {subsection}{\numberline {1.3.4}$T$ and $T^{\dagger }$ Gate}{34}{subsection.1.3.4}%
+\contentsline {subsubsection}{$T$ Gate}{34}{subsection.1.3.4}%
+\contentsline {subsubsection}{$T^{\dagger }$ Gate}{35}{figure.caption.23}%
+\contentsline {subsection}{\numberline {1.3.5}Quantum Rotation Gates}{37}{subsection.1.3.5}%
+\contentsline {subsubsection}{$R_X$ Gate}{37}{subsection.1.3.5}%
+\contentsline {subsubsection}{$R_Y$ Gate}{38}{figure.caption.26}%
+\contentsline {subsubsection}{$R_Z$ Gate}{39}{figure.caption.27}%
+\contentsline {subsection}{\numberline {1.3.6}Universal Quantum Gates}{40}{subsection.1.3.6}%
+\contentsline {section}{\numberline {1.4}Multi-Qubit Gates}{41}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Two-qubit Gates}{41}{subsection.1.4.1}%
+\contentsline {subsubsection}{CNOT/CX Gate}{41}{subsection.1.4.1}%
+\contentsline {subsubsection}{CY Gate}{43}{figure.caption.31}%
+\contentsline {subsubsection}{CZ/CPHASE Gate}{45}{figure.caption.33}%
+\contentsline {subsubsection}{CH/ Controlled Hadamard Gate}{47}{figure.caption.35}%
+\contentsline {subsubsection}{SWAP Gate}{49}{figure.caption.37}%
+\contentsline {subsection}{\numberline {1.4.2}Three-qubit Gates}{51}{subsection.1.4.2}%
+\contentsline {subsubsection}{CCNOT/Toffoli Gate}{51}{subsection.1.4.2}%
+\contentsline {subsubsection}{CSWAP/Fredkin Gate}{54}{figure.caption.43}%
+\contentsline {section}{\numberline {1.5}Quantum Circuits}{59}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Entanglement}{63}{section.1.6}%
+\contentsline {subsection}{\numberline {1.6.1}Bell States/EPR Pairs}{64}{subsection.1.6.1}%
+\contentsline {subsection}{\numberline {1.6.2}Teleportation}{67}{subsection.1.6.2}%
+\contentsline {subsection}{\numberline {1.6.3}Superdense Coding}{70}{subsection.1.6.3}%
+\contentsline {section}{\numberline {1.7}Quantum Algorithms}{75}{section.1.7}%
+\contentsline {subsection}{\numberline {1.7.1}Oracles}{75}{subsection.1.7.1}%
+\contentsline {subsection}{\numberline {1.7.2}Elitzur-Vaidman Bomb Detection Algorithm}{81}{subsection.1.7.2}%
+\contentsline {subsection}{\numberline {1.7.3}Deutsch's Algorithm}{86}{subsection.1.7.3}%
+\contentsline {subsection}{\numberline {1.7.4}Deutsch-Josza Algorithm}{90}{subsection.1.7.4}%
+\contentsline {subsection}{\numberline {1.7.5}Simon's Algorithm}{97}{subsection.1.7.5}%
+\contentsline {subsection}{\numberline {1.7.6}Bernstein-Vazirani Algorithm}{103}{subsection.1.7.6}%
+\contentsline {subsection}{\numberline {1.7.7}Shor's Algorithm}{103}{subsection.1.7.7}%
+\contentsline {subsection}{\numberline {1.7.8}Grover's Algorithm}{104}{subsection.1.7.8}%
+\contentsline {subsection}{\numberline {1.7.9}Quantum Fourier Transform}{109}{subsection.1.7.9}%
+\contentsline {chapter}{\numberline {2}Advanced Quantum Computing}{110}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Linear Growth and Duhamel's Principle}{110}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Universal gate sets and Reversible Computation}{112}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Fixed Point Number Representation and Classical Arithmetic operations}{115}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Fault tolerant Computation}{116}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Complexity of Quantum Algorithms}{116}{section.2.5}%
+\contentsline {chapter}{\numberline {A}Linear Algebra and Calculus Prerequisites}{119}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Linear Algebra}{120}{section.A.1}%
+\contentsline {subsection}{\numberline {A.1.1}Basics of Linear Algebra}{120}{subsection.A.1.1}%
+\contentsline {subsection}{\numberline {A.1.2}Inner Product}{126}{subsection.A.1.2}%
+\contentsline {subsection}{\numberline {A.1.3}Gram-Schmidt Orthogonalization}{129}{subsection.A.1.3}%
+\contentsline {subsection}{\numberline {A.1.4}Cauchy-Schwarz and Traingle Inequalities}{130}{subsection.A.1.4}%
+\contentsline {subsection}{\numberline {A.1.5}Linear Operators and Matrix Representation}{132}{subsection.A.1.5}%
+\contentsline {subsubsection}{Matrix Representation for Product of Operators}{136}{Item.93}%
+\contentsline {subsubsection}{Outer Product Representation of Operators}{137}{Item.93}%
+\contentsline {subsubsection}{Properties of Adjoint of an Operator}{137}{Item.93}%
+\contentsline {subsection}{\numberline {A.1.6}Hermitian and Unitary Operators}{138}{subsection.A.1.6}%
+\contentsline {subsubsection}{Hermitian Operators}{138}{subsection.A.1.6}%
+\contentsline {subsubsection}{Unitary Operators}{139}{definition.A.1.19}%
+\contentsline {subsubsection}{Unitarily Diagonziable}{140}{definition.A.1.20}%
+\contentsline {subsubsection}{Normal Operators}{141}{definition.A.1.21}%
+\contentsline {subsubsection}{Positive Operators}{142}{theorem.A.1.6}%
+\contentsline {subsection}{\numberline {A.1.7}Eigen Value Problems}{143}{subsection.A.1.7}%
+\contentsline {subsubsection}{Spectral Decomposition}{151}{theorem.A.1.7}%
+\contentsline {subsubsection}{Commutator and Anti-Commutator}{151}{theorem.A.1.8}%
+\contentsline {subsubsection}{Simultaneous Diagonalization of two Hermitian Operators}{152}{definition.A.1.26}%
+\contentsline {subsubsection}{Operator Functions}{152}{definition.A.1.27}%
+\contentsline {subsubsection}{Trace of a Matrix}{153}{example.A.1.19}%
+\contentsline {subsection}{\numberline {A.1.8}Norms}{154}{subsection.A.1.8}%
+\contentsline {subsection}{\numberline {A.1.9}Induce Matrix Norm}{155}{subsection.A.1.9}%
+\contentsline {subsection}{\numberline {A.1.10}Conclusions}{156}{subsection.A.1.10}%
+\contentsline {section}{\numberline {A.2}Tensor Products}{157}{section.A.2}%
+\contentsline {subsubsection}{Factorizing Tensor Products}{161}{example.A.2.6}%
+\contentsline {section}{\numberline {A.3}Complex Numbers}{162}{section.A.3}%
+\contentsline {subsection}{\numberline {A.3.1}Complex Plane}{162}{subsection.A.3.1}%
+\contentsline {subsection}{\numberline {A.3.2}Addition of Complex Numbers}{162}{subsection.A.3.2}%
+\contentsline {subsection}{\numberline {A.3.3}Multiplication of Complex Numbers}{163}{subsection.A.3.3}%
+\contentsline {subsection}{\numberline {A.3.4}Complex Conjugate}{163}{subsection.A.3.4}%
+\contentsline {subsection}{\numberline {A.3.5}Modulus of a Complex Number}{164}{subsection.A.3.5}%
+\contentsline {subsection}{\numberline {A.3.6}Polar form}{165}{subsection.A.3.6}%
+\contentsline {subsection}{\numberline {A.3.7}Euler's Formula}{165}{subsection.A.3.7}%
+\contentsline {subsection}{\numberline {A.3.8}Roots of Unity}{166}{subsection.A.3.8}%
+\contentsline {subsection}{\numberline {A.3.9}Discrete Fourier Transform Matrix}{166}{subsection.A.3.9}%
+\contentsline {section}{\numberline {A.4}Probability Theory}{170}{section.A.4}%
+\contentsline {section}{\numberline {A.5}Calculus}{170}{section.A.5}%
+\contentsline {chapter}{\numberline {B}Classical Computations}{171}{appendix.B}%
+\contentsline {section}{\numberline {B.1}Logic Gates}{172}{section.B.1}%
+\contentsline {subsection}{\numberline {B.1.1}NOT Gate}{172}{subsection.B.1.1}%
+\contentsline {subsection}{\numberline {B.1.2}AND Gate}{172}{subsection.B.1.2}%
+\contentsline {subsection}{\numberline {B.1.3}OR Gate}{173}{subsection.B.1.3}%
+\contentsline {subsection}{\numberline {B.1.4}NAND Gate}{173}{subsection.B.1.4}%
+\contentsline {subsection}{\numberline {B.1.5}NOR Gate}{174}{subsection.B.1.5}%
+\contentsline {subsection}{\numberline {B.1.6}XOR Gate}{174}{subsection.B.1.6}%
+\contentsline {subsection}{\numberline {B.1.7}FANOUT Gate}{175}{subsection.B.1.7}%
+\contentsline {subsection}{\numberline {B.1.8}CROSSOVER Gate}{175}{subsection.B.1.8}%
+\contentsline {section}{\numberline {B.2}Classical Circuits}{176}{section.B.2}%
+\contentsline {chapter}{Bibliography}{180}{appendix*.87}%
